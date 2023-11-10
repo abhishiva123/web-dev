@@ -1,0 +1,94 @@
+/* simple selectors */
+/* h1{
+    background-color:chartreuse;
+    color: blue;
+}
+
+
+#para1{
+    background-color: aqua;
+    color: blueviolet;
+}
+
+
+
+.para2{
+    color: blue;
+} */
+
+/* combination selector */
+/* 
+div p{
+    color: aqua;
+}
+
+div+p{
+    color: black;
+    background-color: brown;
+} */
+
+
+
+/* sudo classes */
+
+/* 
+.btn{
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(42, 95, 165);
+}
+
+.btn:hover{
+background-color: black;
+}
+
+.btn:active{
+    background-color: rgb(255, 60, 0);
+}
+
+.link:hover{
+    color: rgb(244, 238, 238);
+}
+.link:visited{
+    color: rgb(14, 14, 14);
+} */
+/* 
+h1{
+    color: blue;
+}
+
+#hd{
+    color: aquamarine;
+}
+
+.hd{
+    color: black;
+} */
+/* precidency
+first-style
+2nd id
+3rd class 
+last simple selector*/
+
+
+/* properties */
+/* bg {*/
+    /* background-color: brown;
+    background-image: url("./1653833338089.jpg");
+    background-repeat: on repeat-y;
+    background-attachment: fixed; */
+    /* background: url("./1653833338089.jpg")no-repeat fixed;
+    } */
+
+
+    /* .hd{
+margin: 5px 6px 7px 20px;
+border:solid 0.4cm blue;
+padding: 4px 5px 8px 4px;
+
+text-align:center;
+text-transform: capitalize;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: medium;
+font-weight: 400;
+} */
